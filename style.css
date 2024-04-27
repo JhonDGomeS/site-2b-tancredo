@@ -6,14 +6,18 @@ header{
     color: aliceblue;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    height: 200px;
 }
 header ul{
     display: flex;
     justify-content: space-around;
+    align-items: center;
     width: 60%;
 }
 main {
     background-color: orangered;
     display: flex;
     justify-content: space-around;
+    height: 500px;
 }
